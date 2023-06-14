@@ -1,0 +1,7 @@
+model\AmigoVo.class
+model\UsuarioVo.class
+model\UsuarioDao.class
+model\ConexionDB.class
+conexion.class
+controller\Usuario.class
+model\AmigoDao.class
